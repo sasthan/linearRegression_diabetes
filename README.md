@@ -2,6 +2,7 @@
 Linear Regression: scikit-learn + numpy + matplotlib.pyplot
 
 Understanding Linear Regression with scikit-learn and using diabetes dataset dataset for the same.
+Reference for Linear Gression example - http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py
 
 ## Understanding dataset
 
